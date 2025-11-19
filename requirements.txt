@@ -2,3 +2,4 @@ streamlit
 fitparse
 pandas
 numpy
+datetime
